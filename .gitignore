@@ -1,0 +1,38 @@
+# Hugo-generated files
+/public/
+/resources/_gen/
+/hugo_stats.json
+
+# Build artifacts
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+*.swp
+*.swo
+*.bak
+
+# OS junk
+ehthumbs.db
+Icon?
+._*
+
+# Logs
+*.log
+
+# Hugo themes if using Git submodules (don't ignore if theme is copied manually)
+# themes/*
+
+# Optional: If using Netlify
+/netlify.toml
+
+# If you're using a local backup script or deploy script
+deploy.sh
+
+# Emacs backup and autosave files
+*~
+# .# files for in-progress edits
+.#*
+# Emacs directory
+.emacs.d/
